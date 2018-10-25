@@ -1,5 +1,5 @@
 # Speaker Verification
-IBN/SE-Resnet + AMSoftmax 
+IBN/SE-Resnet + AMSoftmax + aishell datasets(340 ids)
 
 ## Recent Update
 
